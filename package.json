@@ -1,0 +1,26 @@
+{
+  "name": "education",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeraFilippova/Education.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "VeraFil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeraFilippova/Education/issues"
+  },
+  "homepage": "https://github.com/VeraFilippova/Education#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
